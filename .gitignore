@@ -1,0 +1,6 @@
+backend/target/
+backend/*.db
+*.log
+.idea/
+.vscode/
+*.iml
